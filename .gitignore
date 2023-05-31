@@ -26,4 +26,3 @@ build/
 logs/
 ### VS Code ###
 .vscode/
-.idea/
